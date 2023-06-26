@@ -1,4 +1,4 @@
-import zlib = require('zlib')
+import * as zlib from 'zlib'
 import {
     Flags,
     getHeaderSize,

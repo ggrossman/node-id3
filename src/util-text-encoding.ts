@@ -1,4 +1,4 @@
-import iconv = require('iconv-lite')
+import * as iconv from 'iconv-lite'
 import { TextEncoding } from './definitions/Encoding'
 
 export function stringToEncodedBuffer(
