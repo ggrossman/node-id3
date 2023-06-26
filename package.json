@@ -5,6 +5,7 @@
   "author": "Jan Metzger <jan.metzger@gmx.net>",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "module": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Zazama/node-id3.git"
